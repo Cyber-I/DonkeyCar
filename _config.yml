@@ -13,3 +13,5 @@ gems:
   - jekyll-paginate
 markdown: kramdown
 baseurl: /uis
+
+theme: jekyll-theme-dinky
