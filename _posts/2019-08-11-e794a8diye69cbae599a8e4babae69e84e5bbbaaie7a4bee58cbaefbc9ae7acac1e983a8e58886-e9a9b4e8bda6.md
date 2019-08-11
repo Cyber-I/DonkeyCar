@@ -8,13 +8,6 @@ permalink: 'https://donkeycar.jp/2019/08/11/%e7%94%a8diy%e6%9c%ba%e5%99%a8%e4%ba
 published: true
 post_date: 2019-08-11 08:52:15
 ---
-<figure class="kf kg kh ki kj ev v w paragraph-image">
-<div class="v w kk">
-<div class="kn l ef ko">
-<div class="kp l"><img class="lc ld gi n o gh x ge" src="https://miro.medium.com/max/700/1*Sg5cuLqFufM0IX4nZd9bMA.png" width="700" height="327" /></div>
-<div></div>
-</div>
-</div></figure>
 Using DIY Robotics to Build an AI Community
 
 使用DIY机器人构建AI社区
@@ -46,3 +39,4 @@ Raspberry Pi套件包括带有PI OS的32GB micro SD卡，电源砖，GPIO分线�
 重新启动新SD到我的Pi后，我可以登录并更改wifi设置。再一次重启，我准备好进入我的新驴车。我还设置了静态IP地址，因此每次都会重新连接到同一个IP地址。 “/ home / pi / env”目录下的文件计数显示了近13,000个文件。如果您需要所有血腥的详细信息，请将其放入已启用评论的Google文档文件中。随意为该文件添加注释。
 
 我将在发布更新时发布更新，并在其他部分到达后发布。我需要它们来做校准步骤。
+<div id="extensionsWeblioEjBx" style="position: absolute; z-index: 2147483647; left: 189px; top: 104px;"></div>
