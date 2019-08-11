@@ -13,7 +13,11 @@ Googleが提供している機械学習のためのソフトウェアライブ�
 
 Donkey Carはスマートフォンやコンピュータなどで操作することができます。ほとんどのRCカーに組み込むことができ、人工知能による高度な自動操縦が行えるようになります。
 
+<img class="alignnone size-full wp-image-232" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_embz2VLlEt0Z1oe4ij9ZEA.png" alt="" width="700" height="499" />
+
 まずは自分の車を組み立て、サーボシールドとラズベリーパイ、カメラをセットアップし、その後ソフトウェアをインストールします。サーボでコントロールするステアリングなどを調整して、オートパイロットのための操作の練習を行い、うまく走行できたデータを記録していきます。
+
+<img class="alignnone size-full wp-image-223" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_Sg5cuLqFufM0IX4nZd9bMA.png" alt="" width="700" height="327" />
 
 Donkey Carのソースコードは<a href="https://github.com/wroscoe/donkey" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a>などに公開されており、Donkey Carコミュニティで情報交換が行われています。
 
