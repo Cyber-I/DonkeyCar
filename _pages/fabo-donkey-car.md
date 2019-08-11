@@ -8,7 +8,10 @@ permalink: https://donkeycar.jp/fabo-donkey-car/
 published: true
 post_date: 2019-07-07 11:23:44
 ---
-&nbsp;
+<h1>Donkey Car とは</h1>
+Donkey Carは, ロボットカーのスタンダードになっているスターターキットだ。
+
+一般販売されているラジコンカーと専用のシャーシ、Raspberry Piとスピードコントローラ、電源コンバーター、そして、Piカメラを搭載。これに、グーグルの機械学習ライブラリTensowFlowを搭載して自動走行させる。
 <h1>Donkey Car製作手順</h1>
 &nbsp;
 <ul>
