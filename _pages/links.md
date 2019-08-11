@@ -16,14 +16,20 @@ DIY ROBOCARSはMakersの著者でお馴染み、３DR社のクリスアンダー
 
 https://diyrobocars.com/
 <h1>Donkey Car Store</h1>
-Fabo Store
+<h2>Fabo Store</h2>
+日本にある販売店です。
 
-robocarstore
+https://fabo.store/
+
+販売元はここ。日本円で40000円です。
+
+https://faboplatform.github.io/DonkeyDocs/ (制作資料)
+<h2>robocarstore</h2>
+香港から輸入になります。
 
 <a class="autolink" href="https://www.robocarstore.com/products/donkey-car-starter-kit" target="_blank" rel="nofollow noopener noreferrer">https://www.robocarstore.com/products/donkey-car-starter-kit</a>
 
-販売元はここ。
-日本円で35000円くらい
+販売元はここ。定価はHKドルです。日本円で35000円くらい。
 
 &nbsp;
 <h1>制作資料</h1>
