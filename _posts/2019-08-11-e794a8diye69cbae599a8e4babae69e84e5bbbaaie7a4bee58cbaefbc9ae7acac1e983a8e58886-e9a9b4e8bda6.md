@@ -15,7 +15,9 @@ Using DIY Robotics to Build an AI Community
 这是关于Donkey Car的3部分系列中的第一部。以下是第2部分和第3部分的链接。
 
 （https://medium.com/@dmccreary/building-an-ai-community-with-diy-robotics-part-1-the-donkey-car-d285579985f1）
-<div class="kp l"><img class="lc ld gi n o gh x ge" src="https://miro.medium.com/max/700/1*Sg5cuLqFufM0IX4nZd9bMA.png" width="700" height="327" /></div>
+
+<img class="alignnone wp-image-223 size-full" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_Sg5cuLqFufM0IX4nZd9bMA.png" alt="" width="700" height="327" />
+<div class="kp l"></div>
 我已经通过CoderDojo计划建立了用于教孩子计算机科学近四年的机器人。这是一次有益的经历，我学到了很多关于构建Arduino套件和简单机器人的知识。我一直在为8-18岁的孩子创造“学习阶梯”，而我的机器人则被5岁以下的儿童在The Works Museum使用。围绕DIY项目构建STEM课程很有趣，也是寻找社区的好方法。你可以在Moving Rainbow和CoderDojo Robots网站上看到我的一些工作。
 
 随着新的一年，我决定扩展我的舒适区，包括基于Raspberry Pi，Python和机器学习的更复杂的机器人。我的朋友Arun Batchu也通过购买非常酷的NVIDIA Jetson Xavier开发套件来鼓励这一点。不幸的是，我的小机器人不足以运行这个价值90亿的晶体管系统。我认为这对我来说是一个很好的方式来了解最新的图像识别和边缘计算的热门话题。建立一个本地DIY机器人小组也是在明尼阿波利斯地区建立一个更强大的AI社区的一种方式。
