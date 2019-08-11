@@ -1,6 +1,8 @@
 ---
 ID: 218
-post_title: '用DIY机器人构建AI社区：第1部分 &#8211; 驴车'
+post_title: >
+  驴车：第1部分
+  -用DIY机器人构建AI社区
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: post
