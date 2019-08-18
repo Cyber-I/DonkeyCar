@@ -9,6 +9,10 @@ published: true
 post_date: 2019-08-11 08:04:01
 ---
 <h1 class="entry-title">自分のラジコンカーを自動操縦に。Donkey Carプロジェクト</h1>
+https://www.youtube.com/watch?v=Cu07nPg6R_E
+
+&nbsp;
+
 Googleが提供している機械学習のためのソフトウェアライブラリ「TensorFlow」（テンソルフロー）をラズベリーパイに搭載し、ラジコンカーにカメラを搭載して作る自動運転車のプラットフォームがDonkey Car（ドンキーカー）です。
 
 <img class="alignnone size-full wp-image-232" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_embz2VLlEt0Z1oe4ij9ZEA.png" alt="" width="700" height="499" />
