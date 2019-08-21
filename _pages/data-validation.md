@@ -1,6 +1,6 @@
 ---
 ID: 336
-post_title: Data validation
+post_title: Data Validation
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
