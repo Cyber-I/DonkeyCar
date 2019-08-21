@@ -1,6 +1,6 @@
 ---
 ID: 304
-post_title: Machine Learning
+post_title: Training
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
