@@ -1,10 +1,10 @@
 ---
 ID: 178
-post_title: Donkey Car Chassis
+post_title: Car Chassis
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
-permalink: http://ucar.uc4.net/donkey-car-chassis/
+permalink: https://donkeycar.jp/donkey-car-chassis/
 published: true
 post_date: 2019-06-23 17:28:35
 ---
