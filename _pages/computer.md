@@ -1,6 +1,6 @@
 ---
 ID: 250
-post_title: Car Brain
+post_title: Brain
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
