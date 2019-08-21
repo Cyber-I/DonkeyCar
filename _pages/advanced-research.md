@@ -1,6 +1,6 @@
 ---
 ID: 295
-post_title: Advanced Research
+post_title: Advanced Works
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
