@@ -8,7 +8,7 @@ permalink: https://donkeycar.jp/battery-work/
 published: true
 post_date: 2019-08-21 14:22:10
 ---
-<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large">ニッケル水素</span>バッテリーの充電</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large">ニッケル水素</span>バッテリーの充放電</h1>
 <span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体のオリジナルバッテリーは7.2V 1100mAh、ニッケル水素バッテリー、タミヤミニコネクターでした。1.2Vのニカド（Ni-cd）バッテリーを６本直列に接続した構造になっています。</span></span>
 
 ニカドバッテリーは正しく使用すれば数百回の繰り返し使用が可能ですが、その性能を保つには適切な管理がかんじんです。まず大切なのは「バッテリーは使い終えてから充電する」ということ。
@@ -27,6 +27,8 @@ GOLDBAT  ニッケル水素 3600mAh 7.2V バッテリーを使ってみまし�
 <span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">この商品を使うとバッテリーの容量は一気に３倍。思う存分楽しむことができます。
 サイズが大きくので、背中に乗せる方法にします。重心は高くなりますが、安定した走行できました。
 オリジナルバッテリーはタミヤミニコネクター、こちらの商品はタミヤコネクターのため、さらにタミヤコネクターとタミヤミニコネクターの変換分岐ケーブルも自作しました。</span></span>
+
+<img class="alignnone size-full wp-image-358" src="https://donkeycar.jp/wp-content/uploads/2019/08/IMG_1439.jpg" alt="" width="4032" height="3024" />
 <h1>LiPoバッテリーの利用</h1>
 リチウムイオン電池では電池では同じサイズの割に容量が大きい、<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">メモリ効果もない。おすすめですが、電圧が少々高いので要対策です。</span></span>
 
