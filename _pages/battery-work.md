@@ -11,6 +11,10 @@ post_date: 2019-08-21 14:22:10
 <h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large">ニッケル水素</span>バッテリーの充電</h1>
 <span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体のオリジナルバッテリーは7.2V 1100mAh、ニッケル水素バッテリー、タミヤミニコネクターでした。</span></span>
 
+充電時間：
+
+放電時間：
+
 <span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">ニッケル水素バッテリーはメモリ効果があるので、容量をある程度残した状態で充放電を繰り返すと、容量が低下する。</span></span>
 
 ニッケル水素電池では、この現象は一時的なものであり、深い放電を行うことで通常は解消します。
