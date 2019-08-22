@@ -31,5 +31,9 @@ GOLDBAT  ニッケル水素 3600mAh 7.2V バッテリーを使ってみまし�
 <img class="alignnone size-full wp-image-358" src="https://donkeycar.jp/wp-content/uploads/2019/08/IMG_1439.jpg" alt="" width="4032" height="3024" />
 <h1>リチウムイオン（Li-ion）バッテリーの利用</h1>
 リチウムイオン（Li-ion）電池ではエネルギー密度が高く、軽量で安全性に優れるのが特徴、<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">メモリ効果もない。おすすめですが、電圧が少々高いので要対策です。</span></span>
+<h1>教訓</h1>
+教訓１：<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">タミヤコネクターとタミヤミニコネクターを間違えた。</span></span>
+
+<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">タミヤミニコネクターのオスは、タミヤコネクターのメスに差込できる。しかし＋と－は区別できなくなる。結果はタミヤミニコネクターのオスは溶けました。</span></span>
 
 &nbsp;
