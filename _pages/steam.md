@@ -14,5 +14,5 @@ RCカー、自動運転するスマート車の製作に通じて、IoT, AI知�
 Smart Car, a best solution for STEAM education.
 
 <img class="alignnone wp-image-113 size-full" src="https://donkeycar.jp/wp-content/uploads/2018/07/steam-learning-graphic.gif" alt="" width="790" height="350" />
-<h1>STEAM Exercise</h1>
-[gallery ids="106,104,102,100,96,94"]
+
+&nbsp;
