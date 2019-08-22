@@ -9,15 +9,17 @@ published: true
 post_date: 2019-08-21 14:22:10
 ---
 <h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large">ニッケル水素</span>バッテリーの充電</h1>
-<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体のオリジナルバッテリーは7.2V 1100mAh、ニッケル水素バッテリー、タミヤミニコネクターでした。</span></span>
+<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体のオリジナルバッテリーは7.2V 1100mAh、ニッケル水素バッテリー、タミヤミニコネクターでした。1.2Vのニカド（Ni-cd）バッテリーを６本直列に接続した構造になっています。</span></span>
 
-充電時間：
+ニカドバッテリーは正しく使用すれば数百回の繰り返し使用が可能ですが、その性能を保つには適切な管理がかんじんです。まず大切なのは「バッテリーは使い終えてから充電する」ということ。
 
-放電時間：
+充電時間：標準的なものがバッテリーに同梱されているは長時間、急速充電器の利用と１時間程度とスピーディ。
 
-<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">ニッケル水素バッテリーはメモリ効果があるので、容量をある程度残した状態で充放電を繰り返すと、容量が低下する。</span></span>
+放電時間：1/16の<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体の場合大抵15分程度。</span></span>
 
-ニッケル水素電池では、この現象は一時的なものであり、深い放電を行うことで通常は解消します。オートディスチャージャー を利用して、完全放電してから充電することがおすすめです。
+<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">ニッケル水素バッテリーはメモリ効果があるので、容量をある程度残した状態で充放電を繰り返すと、容量が低下する。充電しても満足に走れない状態になります。</span></span>ニッケル水素電池では、この現象は一時的なものであり、深い放電を行うことで通常は解消します。オートディスチャージャー を利用して、完全放電してから充電することがおすすめです。
+
+よりていねいに行うならば、使用後には放電器（ディスチャージャー）で適切に放電させて、その後バッテリー内部が安定するまで時間をおいて（1日程度）から充電することでよりよいコンディションを保つことができます。
 <h1>大容量バッテリーの利用</h1>
 <span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">HSP車体のオリジナルバッテリーは7.2V 1100mAhのみ、Donkey Carの教師データ作成と自動走行には容量不足です。
 GOLDBAT  ニッケル水素 3600mAh 7.2V バッテリーを使ってみました。</span></span>
