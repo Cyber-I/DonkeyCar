@@ -50,6 +50,8 @@ LinuxおよびPiの専門家によって3年間にわたって慎重に作成さ
  	<li><a href="https://weekly.ascii.jp/elem/000/000/423/423904/">https://weekly.ascii.jp/elem/000/000/423/423904/</a></li>
 </ul>
 <h1>Fabo Store</h1>
+FaboDonkeyCarは、TensorFlowをベースに、 ディープラーニング（深層学習）用の教師データの作成、クラウドでの学習(Colaboratoryを使用)、学習済みモデルの推論での走行までをワンストップでサポートされるので、初心者には親切です。セットアップ方法や組み立てマニュアルのサイトもご用意しています。
+ラジコンを走行させながら、ディープラーニング（深層学習）が学べる教材基本セットDonkeyCar KitをFabo Storeに購入する方が、ディープラーニングにより自動運転技術に集中できるので、お薦めします。
 <ul>
  	<li><a href="https://fabo.store/">https://fabo.store/ </a></li>
 </ul>
