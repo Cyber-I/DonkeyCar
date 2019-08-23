@@ -31,3 +31,5 @@ $ ssh pi@ip
 $ logout
 <h1>パスワード変更</h1>
 $ passed pi
+<h1>相対パス／絶対パス</h1>
+&nbsp;
