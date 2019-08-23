@@ -30,6 +30,68 @@ Piに新しいSDを差込、モニターに繋いて起動した後、ログイ�
  	<li>ssh 接続</li>
 </ol>
 してください。
+
+&nbsp;
+<h2>WiFi設定</h2>
+<h3><code>wpa_supplicant.conf</code>に無線LAN情報を追記</h3>
+以下を実行
+<div class="code-frame" data-lang="text">
+<div class="highlight">
+<pre>$ sudo sh -c 'wpa_passphrase SSID PASSPHRASE &gt;&gt; /etc/wpa_supplicant/wpa_supplicant.conf'
+</pre>
+</div>
+</div>
+<code>SSID</code>と<code>PASSPHRASE</code>を自身の無線ルータ等の設定にしてください。
+<h3><span id="生パスワードを削除" class="fragment"></span>生パスワードを削除</h3>
+<code>/etc/wpa_supplicant/wpa_supplicant.conf</code>ファイル内では、生パスワードがコメントアウトで記載されているので、確認してから削除しましょう。
+<div class="code-frame" data-lang="text">
+<div class="code-lang"><span class="bold">/etc/wpa_supplicant/wpa_supplicant.conf</span></div>
+<div class="highlight">
+<pre>ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+country=GB
+
+network={
+        ssid="SSID"
+        #psk="PASSPHRASE" #消しておきましょう
+        psk=xxxxxxxxxxx....xxx
+}
+
+</pre>
+</div>
+</div>
+<h2>固定IP設定</h2>
+<h3><code>dhcpcd.conf</code>にネットワーク情報を追記</h3>
+Raspbian Wheezyでは、固定IPアドレス設定には、<code>/etc/network/interface</code>のファイルを修正しましたが、Jessieからは代わりに<code>/etc/dhcpcd.conf</code>ファイルへ設定内容を追記します。
+<div class="code-frame" data-lang="text">
+<div class="code-lang"><span class="bold">/etc/dhcpcd.conf</span></div>
+<div class="highlight">
+<pre># 追記
+interface wlan0
+static ip_address=192.168.11.40/24
+static routers=192.168.11.1
+static domain_name_servers=192.168.11.1
+</pre>
+</div>
+</div>
+上記の設定はBuffalo無線ルータの場合の設定です。
+<code>routers</code>というのは<code>gateway</code>に当たります。
+<h2><span id="設定確認" class="fragment"></span>設定確認</h2>
+シャットダウンしてLANケーブルが繋がっているならば抜き、再起動後、指定したIPアドレスで無線LANが設定されているかを確認します。
+<div class="code-frame" data-lang="text">
+<div class="highlight">
+<pre>$ ip addr
+(略)
+3: wlan0: &lt;BROADCAST,MULTICAST,UP,LOWER_UP&gt; mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether b8:27:eb:82:1b:df brd ff:ff:ff:ff:ff:ff
+    inet 192.168.11.40/24 brd 192.168.11.255 scope global wlan0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::dcdd:d297:5e54:2b4d/64 scope link
+       valid_lft forever preferred_lft forever
+</pre>
+</div>
+</div>
+これで無線LANを通じてSSH接続等ができるようになりました!
 <h1>教訓</h1>
 教訓１：シャットダウンしないて、電源コンセントをいきなり抜く<span class="a-size-base review-text review-text-content" data-hook="review-body"><span class="">。</span></span>
 
@@ -38,3 +100,7 @@ Piに新しいSDを差込、モニターに繋いて起動した後、ログイ�
 専門家の助けを求めたら、Raspberry Piを停電すると、ゴミファイル大量に発生する。DonkeyCarの学習に悪影響。手間をかけてゴミファイルをクリアしたら、DonkeyCarの学習はできた。
 
 &nbsp;
+<h1>参考</h1>
+<ul>
+ 	<li>https://qiita.com/momotaro98/items/fa94c0ed6e9e727fe15e</li>
+</ul>
