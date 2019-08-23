@@ -30,6 +30,6 @@ $ ssh pi@ip
 <h1>ログアウト</h1>
 $ logout
 <h1>パスワード変更</h1>
-$ passed pi
+$ passwd pi
 <h1>相対パス／絶対パス</h1>
 &nbsp;
