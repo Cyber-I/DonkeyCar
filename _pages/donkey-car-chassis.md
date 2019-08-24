@@ -20,9 +20,7 @@ HSPラジコン
 
 （既にAmazonリンク切れ、販売してない）
 <h2>日本</h2>
-高価、しかもスピードコントローラー、サーボ、バッテリなど別売りの場合があり、追加購入しないと使えない場合がある
-
-。
+高価、しかもスピードコントローラー、サーボ、バッテリなど別売りの場合があり、追加購入しないと使えない場合がある。
 
 Tamiya TT-01(1/16スケール)
 <a class="autolink" href="https://ja.wikipedia.org/wiki/TT-01" target="_blank" rel="nofollow noopener noreferrer">https://ja.wikipedia.org/wiki/TT-01</a>
