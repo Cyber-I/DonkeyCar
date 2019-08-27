@@ -14,11 +14,19 @@ post_date: 2019-06-23 17:28:35
  	<li>PWMでスピードコントローラーが制御できる事</li>
  	<li>PWMで前輪用サーボが制御できる事</li>
 </ul>
-<h2><span id="中華" class="fragment"></span>中華</h2>
+<h2><span id="中華" class="fragment"></span>中国</h2>
 HSPラジコン
+
+Taobao:
+
+<a href="https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.5.5c5f4e69I8naw3&amp;id=6004880592">https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.5.5c5f4e69I8naw3&amp;id=6004880592</a>
+
+Amazon Japan:
 <a class="autolink" href="https://www.amazon.co.jp/gp/product/B07GCKNG72/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1" target="_blank" rel="nofollow noopener noreferrer">https://www.amazon.co.jp/gp/product/B07GCKNG72/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1</a>
 
 （既にAmazonリンク切れ、販売してない）
+
+&nbsp;
 <h2>日本</h2>
 高価、しかもスピードコントローラー、サーボ、バッテリなど別売りの場合があり、追加購入しないと使えない場合がある。
 
