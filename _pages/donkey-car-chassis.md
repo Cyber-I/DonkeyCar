@@ -14,7 +14,7 @@ post_date: 2019-06-23 17:28:35
  	<li>PWMでスピードコントローラーが制御できる事</li>
  	<li>PWMで前輪用サーボが制御できる事</li>
 </ul>
-<h2><span id="中華" class="fragment"></span>中国</h2>
+<h2><span id="中華" class="fragment"></span>中国製品</h2>
 HSPラジコン
 
 Taobao:
@@ -27,7 +27,7 @@ Amazon Japan:
 （既にAmazonリンク切れ、販売してない）
 
 &nbsp;
-<h2>日本</h2>
+<h2>日本製品</h2>
 高価、しかもスピードコントローラー、サーボ、バッテリなど別売りの場合があり、追加購入しないと使えない場合がある。
 
 Tamiya TT-01(1/16スケール)
