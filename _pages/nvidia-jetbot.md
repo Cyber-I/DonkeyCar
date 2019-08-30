@@ -31,4 +31,5 @@ NVIDIA の Jetson Nano がGTCで発表され、同時に発表されたAIプロ�
 <h1>参考資料</h1>
 <ol>
  	<li><a href="https://faboplatform.github.io/JetbotDocs/">https://faboplatform.github.io/JetbotDocs/</a></li>
+ 	<li><a href="https://www.facebook.com/groups/351316242393961/">https://www.facebook.com/groups/351316242393961/</a></li>
 </ol>
