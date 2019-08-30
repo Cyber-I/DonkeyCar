@@ -8,6 +8,11 @@ permalink: https://donkeycar.jp/hsp-94186-rc-car/
 published: true
 post_date: 2019-08-21 13:09:00
 ---
+<h1>試作品</h1>
+<img class="alignnone size-full wp-image-358" src="https://donkeycar.jp/wp-content/uploads/2019/08/IMG_1439.jpg" alt="" width="4032" height="3024" />
+<h1>スペック</h1>
+&nbsp;
+
 https://www.youtube.com/watch?v=pHHQbIKapxU
 
 <hr />
