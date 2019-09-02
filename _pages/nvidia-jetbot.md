@@ -16,6 +16,14 @@ NVIDIA の Jetson Nano がGTCで発表され、同時に発表されたAIプロ�
 本家 Wiki の BOM（部品表）； <a class="autolink" href="https://github.com/NVIDIA-AI-IOT/jetbot/wiki/Bill-of-Materials" target="_blank" rel="nofollow noopener noreferrer">https://github.com/NVIDIA-AI-IOT/jetbot/wiki/Bill-of-Materials</a>
 
 &nbsp;
+<h1>JetBot 版 Donkey Car必要部品</h1>
+&nbsp;
+<ol>
+ 	<li>Wifi card and Antennas</li>
+ 	<li>Pi Camera.</li>
+ 	<li> <a href="https://store.donkeycar.com/products/jetson-donkey-adapter">Adapter</a> (Pi装着する所に、JetBotをインストールためのアダプタ)</li>
+</ol>
+&nbsp;
 <h1>JetBot 版 Donkey Car を走らせる手順</h1>
 <div class="_2cuy _3dgx _2vxa">JetBot 版 Donkey Car を走らせる手順を軽く説明。5) 以降について詳しくは Donkey Car サイトのドキュメント参照：</div>
 <ol class="_5a_q _509r" dir="ltr">
@@ -27,9 +35,10 @@ NVIDIA の Jetson Nano がGTCで発表され、同時に発表されたAIプロ�
  	<li class="_2cuy _509s _2vxa">PC の Web ブラウザから　http://&lt;jetbotのIPアドレス&gt;:8887</li>
  	<li class="_2cuy _509s _2vxa">"Mode &amp; Pilot" から Local Pilot を 選ぶと自動走行開始</li>
 </ol>
-&nbsp;
+<img class="alignnone size-full wp-image-414" src="https://donkeycar.jp/wp-content/uploads/2019/09/Jetbot_Assembled.png" alt="" width="2344" height="1632" />
 <h1>参考資料</h1>
 <ol>
  	<li><a href="https://faboplatform.github.io/JetbotDocs/">https://faboplatform.github.io/JetbotDocs/</a></li>
  	<li><a href="https://www.facebook.com/groups/351316242393961/">https://www.facebook.com/groups/351316242393961/</a></li>
 </ol>
+<div id="extensionsWeblioEjBx" style="position: absolute; z-index: 2147483647; left: 354px; top: 370px;"></div>
