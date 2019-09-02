@@ -13,7 +13,7 @@ post_date: 2019-06-23 17:28:35
 <h1>条件</h1>
 <ul>
  	<li>PWMでスピードコントローラー(ESC)が制御できる事</li>
- 	<li>PWMで前輪用サーボ(SA)が制御できる事</li>
+ 	<li>PWMで前輪用サーボ(Steering Servo)が制御できる事</li>
 </ul>
 <h2><span id="中華" class="fragment"></span>中国製品</h2>
 <h3>HSP 94186 ラジコン</h3>
