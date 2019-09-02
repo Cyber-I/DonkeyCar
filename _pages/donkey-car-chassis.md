@@ -9,14 +9,14 @@ published: true
 post_date: 2019-06-23 17:28:35
 ---
 <h1 class="it-Header_title">Donkey Carで動きそうなラジコン</h1>
+メインのラジコンは、なんでも良さそうです。ただ、サーボ、ESCなどいわゆる普通のPWMで動かすタイプのようです。
 <h1>条件</h1>
 <ul>
- 	<li>PWMでスピードコントローラーが制御できる事</li>
- 	<li>PWMで前輪用サーボが制御できる事</li>
+ 	<li>PWMでスピードコントローラー(ESC)が制御できる事</li>
+ 	<li>PWMで前輪用サーボ(SA)が制御できる事</li>
 </ul>
 <h2><span id="中華" class="fragment"></span>中国製品</h2>
-HSPラジコン
-
+<h3>HSP 94186 ラジコン</h3>
 Taobao:
 
 <a href="https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.5.5c5f4e69I8naw3&amp;id=6004880592">https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.5.5c5f4e69I8naw3&amp;id=6004880592</a>
@@ -26,7 +26,11 @@ Amazon Japan:
 
 （既にAmazonリンク切れ、販売してない）
 
-&nbsp;
+<img class="alignnone size-full wp-image-358" src="https://donkeycar.jp/wp-content/uploads/2019/08/IMG_1439.jpg" alt="" width="4032" height="3024" />
+<h3>Wltoys K989 RC Car</h3>
+こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。
+
+<img class="alignnone size-full wp-image-400" src="https://donkeycar.jp/wp-content/uploads/2019/08/donkeycar-image.png" alt="" width="2048" height="1536" />
 <h2>日本製品</h2>
 高価、しかもスピードコントローラー、サーボ、バッテリなど別売りの場合があり、追加購入しないと使えない場合がある。
 
@@ -36,6 +40,8 @@ Tamiya TT-02(1/16スケール)
 <a class="autolink" href="https://ja.wikipedia.org/wiki/TT-02" target="_blank" rel="nofollow noopener noreferrer">https://ja.wikipedia.org/wiki/TT-02</a>
 Tamiya CC-01(1/10スケール)
 <a class="autolink" href="https://ja.wikipedia.org/wiki/CC-01" target="_blank" rel="nofollow noopener noreferrer">https://ja.wikipedia.org/wiki/CC-01</a>
+
+<img class="alignnone size-full wp-image-409" src="https://donkeycar.jp/wp-content/uploads/2019/09/TT01.png" alt="" width="1206" height="870" />
 <h1>その他</h1>
 Donkey Car推薦する車体が日本で購入が困難のため、様々な車体を検討する。
 
