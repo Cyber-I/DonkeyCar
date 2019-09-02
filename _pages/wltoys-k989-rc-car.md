@@ -9,6 +9,10 @@ published: true
 post_date: 2019-08-28 03:01:42
 ---
 <h1>試作品</h1>
+こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。
+
+&nbsp;
+
 <img class="alignnone size-full wp-image-401" src="https://donkeycar.jp/wp-content/uploads/2019/08/69644839_10219960159904199_6786164622509473792_n.jpg" alt="" width="960" height="720" />
 
 <img class="alignnone size-full wp-image-400" src="https://donkeycar.jp/wp-content/uploads/2019/08/donkeycar-image.png" alt="" width="2048" height="1536" />
