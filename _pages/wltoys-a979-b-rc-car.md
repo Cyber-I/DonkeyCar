@@ -12,7 +12,7 @@ post_date: 2019-09-26 14:40:12
 <h1>試作品</h1>
 こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。さらにサーボも３線ではなく、４線式である。
 
-&nbsp;
+https://www.youtube.com/watch?v=BXI4UdcdxPU
 <h1>スペック</h1>
 通常1/10モデル使用する巨大モーターを実装、最高速度：70km / h達成。
 <div class="celwidget aplus-module 3p-module-c" data-cel-widget="aplus-3p-module-c">
@@ -38,7 +38,9 @@ post_date: 2019-09-26 14:40:12
 遠隔操作距離：約100m
 充電時間：約120分
 作業時間：約8分
-適格年齢：14歳以上</div>
+適格年齢：14歳以上
+
+</div>
 </div>
 </div>
 </div>
