@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=BXI4UdcdxPU
 <div class="aplus-3p-fixed-width">
 <h3 class="a-spacing-mini">★製品詳細</h3>
 <div class="a-row">
-<div class="a-column a-span4 a-spacing-base"><img src="https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/A1VC38T7YXB528/A3I94RYD4V4467/B0778FBL7G/bbnkgIKIRWX._UX300_TTW__.jpg" alt="" /></div>
+<div class="a-column a-span4 a-spacing-base"><img src="https://donkeycar.jp/wp-content/uploads/2019/09/bbnkgIKIRWX._UX300_TTW__.jpg" alt="" /></div>
 <div class="a-column a-span8 a-spacing-base a-span-last">
 <ul class="a-unordered-list a-vertical">
  	<li><span class="a-list-item"><span class="a-text-bold">仕様：</span></span></li>
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=BXI4UdcdxPU
 <div class="aplus-3p-fixed-width">
 <h3 class="a-spacing-mini">★バッテリー</h3>
 <div class="a-row">
-<div class="a-column a-span4 a-spacing-base"><img src="https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/A1VC38T7YXB528/A3I94RYD4V4467/B0778FBL7G/9jzZ53MwSiqo._UX300_TTW__.jpg" alt="" /></div>
+<div class="a-column a-span4 a-spacing-base"><img src="https://donkeycar.jp/wp-content/uploads/2019/09/9jzZ53MwSiqo._UX300_TTW__.jpg" alt="" /></div>
 <div class="a-column a-span8 a-spacing-base a-span-last">
 <ul class="a-unordered-list a-vertical">
  	<li><span class="a-list-item">充電式高性能7.4V 1500mAhのリチウムバッテリーを使用し、より強力なパワーとより長い動作時間をサポートします。</span></li>
