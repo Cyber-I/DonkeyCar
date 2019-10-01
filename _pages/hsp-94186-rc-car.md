@@ -9,6 +9,8 @@ published: true
 post_date: 2019-08-21 13:09:00
 ---
 <h1>写真で見る Donkey Car の組み立て</h1>
+https://youtu.be/OaVqWiR2rS0
+
 https://www.slideshare.net/HoriTasuku/donkey-car
 <h1>車体</h1>
 3D印刷データ
