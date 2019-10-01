@@ -10,8 +10,10 @@ post_date: 2019-08-21 13:09:00
 ---
 <h1>写真で見る Donkey Car の組み立て</h1>
 https://www.slideshare.net/HoriTasuku/donkey-car
+<h1>車体</h1>
+3D印刷データ
 
-&nbsp;
+<a href="https://www.thingiverse.com/chen420/collections/donkeycar">https://www.thingiverse.com/chen420/collections/donkeycar</a>
 <h1>試作品</h1>
 <img class="alignnone size-full wp-image-358" src="https://donkeycar.jp/wp-content/uploads/2019/08/IMG_1439.jpg" alt="" width="4032" height="3024" />
 <h1>スペック</h1>
