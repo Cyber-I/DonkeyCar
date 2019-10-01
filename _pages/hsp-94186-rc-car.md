@@ -8,7 +8,9 @@ permalink: https://donkeycar.jp/hsp-94186-rc-car/
 published: true
 post_date: 2019-08-21 13:09:00
 ---
-<h1>写真で見る Donkey Car の組み立て</h1>
+<h1>HSP 94186 RC Car</h1>
+HSP 94186 RC Carは、初心者向けDonkey Car車体。
+<h1>Donkey Car の組み立て</h1>
 https://youtu.be/OaVqWiR2rS0
 
 https://www.slideshare.net/HoriTasuku/donkey-car
