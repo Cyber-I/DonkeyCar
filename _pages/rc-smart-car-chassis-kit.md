@@ -14,7 +14,7 @@ RC Smart Car Chassis Kit
 
 <img class="alignnone size-full wp-image-440" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB24TmFq5RnpuFjSZFCXXX2DXXa_73470597.jpg" alt="" width="715" height="337" /> <img class="alignnone size-full wp-image-441" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB23UGYq9FmpuFjSZFrXXayOXXa_73470597.jpg" alt="" width="750" height="277" />
 
-この車体は、前輪のステーリンクと後輪差動駆動になっている。高速モーターRS380を使用して 高速走行可能。
+この車体は、前輪のステーリンクと後輪差動駆動になっている。高速モーターRS380を使用して 高速走行可能。振動吸収機構がないので、平坦な道路に適している。
 
 &nbsp;
 
