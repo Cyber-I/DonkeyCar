@@ -26,7 +26,12 @@ Arduinoで操作するための組み立て方法が、次のリンクを参照�
 
 <a href="https://www.instructables.com/id/Differential-Steering-Car-With-Arduino/">https://www.instructables.com/id/Differential-Steering-Car-With-Arduino/</a>
 <h1>改造</h1>
-車台の上の、 RC Car 10A Brushed ESC Two Way Motor Speed Controller を追加して、DonkeyCarの仕様に満たせる。
+DonkeyCarの仕様では、サーボ、ESCなどいわゆる普通のPWMで動かすタイプのようだ。
+<ul>
+ 	<li>PWMでスピードコントローラー(ESC)が制御できる事</li>
+ 	<li>PWMで前輪用サーボ(Steering Servo)が制御できる事</li>
+</ul>
+車台の上の、 前輪用サーボはPWMだが、モーターのコントローラーがない。そのためRC Car 10A Brushed ESC Two Way Motor Speed Controller を追加して、DonkeyCarの仕様に満たせる。
 
 DonkeyCarの3Dパーツを載せて、普通のDonkeyCarと同じことができる。
 
