@@ -15,6 +15,8 @@ post_date: 2019-08-28 03:01:42
 
 <img class="alignnone size-full wp-image-401" src="https://donkeycar.jp/wp-content/uploads/2019/08/69644839_10219960159904199_6786164622509473792_n.jpg" alt="" width="960" height="720" />
 
+based on the WL Toys chassis: <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Fa360.co%2F2S7GaqI" target="_blank" rel="noopener noreferrer">https://a360.co/2S7GaqI</a>
+
 <img class="alignnone size-full wp-image-400" src="https://donkeycar.jp/wp-content/uploads/2019/08/donkeycar-image.png" alt="" width="2048" height="1536" />
 <h1>スペック</h1>
 &nbsp;
