@@ -11,9 +11,9 @@ post_date: 2019-08-28 03:01:42
 <h1>試作品</h1>
 こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。
 
-&nbsp;
+<img class="alignnone size-full wp-image-450" src="https://donkeycar.jp/wp-content/uploads/2019/10/IMG_2048.jpg" alt="" width="4032" height="3024" />
 
-<img class="alignnone size-full wp-image-401" src="https://donkeycar.jp/wp-content/uploads/2019/08/69644839_10219960159904199_6786164622509473792_n.jpg" alt="" width="960" height="720" />
+&nbsp;
 
 based on the WL Toys chassis: <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Fa360.co%2F2S7GaqI" target="_blank" rel="noopener noreferrer">https://a360.co/2S7GaqI</a>
 
