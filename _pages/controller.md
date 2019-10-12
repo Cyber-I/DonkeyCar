@@ -10,6 +10,8 @@ post_date: 2019-10-12 13:37:50
 ---
 <h1>使えるジョイスティックコントローラ</h1>
 <ul>
+ 	<li>SONY PS3 joystick</li>
+ 	<li>SONY PS4 joystick</li>
  	<li><a href="https://amzn.to/2R85kAK" rel="nofollow">Logicool Wireress GamePad F710</a></li>
  	<li><a href="https://amzn.to/2SddDvo" rel="nofollow">ELECOM Wireress GamePad JC-U3912T</a></li>
 </ul>
