@@ -1,6 +1,6 @@
 ---
 ID: 439
-post_title: RC Smart Car Chassis Kit
+post_title: Smart Car Chassis Kit
 author: gameshell_d7l6g7
 post_excerpt: ""
 layout: page
