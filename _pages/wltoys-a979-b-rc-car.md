@@ -10,7 +10,11 @@ published: true
 post_date: 2019-09-26 14:40:12
 ---
 <h1>試作品</h1>
-こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。さらにサーボも３線式ではなく、5線式である。
+この車体はESCと受信機が一体になる特殊構造なので、現在Donkey Carとして試作する方法を鋭意研究中である。ご期待ください。
+<h2>ESCの改造</h2>
+こちらESCと受信機が一体になるので、受信機を取り外すと、別途ESCを自作（購入）する必要。
+<h2>サーボの改造</h2>
+さらにサーボも３線式ではなく、5線式である。
 
 5線式サーボの中身には制御基板がなく、モータとポテンションメータだけが入ってます。
 
@@ -22,10 +26,12 @@ post_date: 2019-09-26 14:40:12
 橙　ポテンション３
 
 ３線式への変換基板が探す、または同じサーズの３線式サーボを交換する。
-
-https://www.youtube.com/watch?v=BXI4UdcdxPU
+<h2>ベースの改造</h2>
+車体は標準のHSP車体より少し短く、そして固定用穴の間隔も幅広いので、３Dプリントのベースは改造する必要がある。
 <h1>スペック</h1>
 通常1/10モデル使用する巨大モーターを実装、最高速度：70km / h達成。
+
+https://www.youtube.com/watch?v=BXI4UdcdxPU
 <div class="celwidget aplus-module 3p-module-c" data-cel-widget="aplus-3p-module-c">
 <div class="aplus-3p-fixed-width">
 <h3 class="a-spacing-mini">★製品詳細</h3>
