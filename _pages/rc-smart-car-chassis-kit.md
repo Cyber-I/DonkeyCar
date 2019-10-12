@@ -9,10 +9,25 @@ permalink: >
 published: true
 post_date: 2019-10-05 15:11:01
 ---
-<h1>特徴</h1>
+<h1>RC Smart Car Chassis Kit</h1>
+RC Smart Car Chassis KitをDonkey Car車体として
+
+<img class="alignnone size-full wp-image-440" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB24TmFq5RnpuFjSZFCXXX2DXXa_73470597.jpg" alt="" width="715" height="337" />
+<h1>試作品</h1>
+DonkeyCarの仕様では、サーボ、ESCなどいわゆる普通のPWMで動かすタイプのようだ。
+<ul>
+ 	<li>PWMでスピードコントローラー(ESC)が制御できる事</li>
+ 	<li>PWMで前輪用サーボ(Steering Servo)が制御できる事</li>
+</ul>
+車台の上の、 前輪用サーボはPWMだが、モーターのコントローラーがない。そのためRC Car 10A Brushed ESC Two Way Motor Speed Controller を追加して、DonkeyCarの仕様に満たせる。
+
+DonkeyCarの3Dパーツを載せて、普通のDonkeyCarと同じことができる。
+
+<img class="alignnone size-full wp-image-443" src="https://donkeycar.jp/wp-content/uploads/2019/10/71804990_10157629477797959_770413667140239360_n.jpg" alt="" width="960" height="720" />
+<h1>車体特徴</h1>
 RC Smart Car Chassis Kit
 
-<img class="alignnone size-full wp-image-440" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB24TmFq5RnpuFjSZFCXXX2DXXa_73470597.jpg" alt="" width="715" height="337" /> <img class="alignnone size-full wp-image-441" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB23UGYq9FmpuFjSZFrXXayOXXa_73470597.jpg" alt="" width="750" height="277" />
+<img class="alignnone size-full wp-image-441" src="https://donkeycar.jp/wp-content/uploads/2019/10/TB23UGYq9FmpuFjSZFrXXayOXXa_73470597.jpg" alt="" width="750" height="277" />
 
 この車体は、前輪のステーリンクと後輪差動駆動になっている。高速モーターRS380を使用して 高速走行可能。振動吸収機構がないので、平坦な道路に適している。
 
@@ -25,17 +40,8 @@ https://www.youtube.com/watch?v=ydkPQBdpotw
 Arduinoで操作するための組み立て方法が、次のリンクを参照。
 
 <a href="https://www.instructables.com/id/Differential-Steering-Car-With-Arduino/">https://www.instructables.com/id/Differential-Steering-Car-With-Arduino/</a>
-<h1>改造</h1>
-DonkeyCarの仕様では、サーボ、ESCなどいわゆる普通のPWMで動かすタイプのようだ。
-<ul>
- 	<li>PWMでスピードコントローラー(ESC)が制御できる事</li>
- 	<li>PWMで前輪用サーボ(Steering Servo)が制御できる事</li>
-</ul>
-車台の上の、 前輪用サーボはPWMだが、モーターのコントローラーがない。そのためRC Car 10A Brushed ESC Two Way Motor Speed Controller を追加して、DonkeyCarの仕様に満たせる。
 
-DonkeyCarの3Dパーツを載せて、普通のDonkeyCarと同じことができる。
-
-<img class="alignnone size-full wp-image-443" src="https://donkeycar.jp/wp-content/uploads/2019/10/71804990_10157629477797959_770413667140239360_n.jpg" alt="" width="960" height="720" />
+&nbsp;
 
 &nbsp;
 
