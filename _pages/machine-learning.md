@@ -18,9 +18,9 @@ post_date: 2019-08-21 13:44:48
 
 AIプラットフォームは必要に応じて次の3種類の利用が考えられます。
 <ol>
- 	<li>クラウドを利用</li>
- 	<li>PCに</li>
- 	<li>Donkey Car に</li>
+ 	<li><a href="https://donkeycar.jp/google-colab/">Google Colab</a>クラウドを利用</li>
+ 	<li>PCにTensorFlowを使って学習環境を用意</li>
+ 	<li>Donkey Car に<a href="https://donkeycar.jp/nvidia-jetbot/" aria-current="page">NVIDIA JetBot</a></li>
 </ol>
 クラウドを利用は手軽い始められるので、初心者におすすめです。
 
