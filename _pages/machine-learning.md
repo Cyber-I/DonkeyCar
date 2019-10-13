@@ -11,9 +11,14 @@ post_date: 2019-08-21 13:44:48
 人間が操作して10～15周くらいコース上を走らせます。コース上には赤いコーンなどを配置してもよい。
 
 この間に、ドンキーカーは1万枚程度の“画像”と人間が操作した“ステアリング”と“スロットル”の<a href="https://donkeycar.jp/training-data/">学習データ</a>を一緒に記録します。
-
+<h1>操作</h1>
 通常、PS3のコントローラやロジクールF710などの<a href="https://donkeycar.jp/controller/">ゲームパッド</a>で操作します。
-
+<ol>
+ 	<li>PS3のコントローラ</li>
+ 	<li><a href="https://amzn.to/2R85kAK" rel="nofollow">Logicool Wireress GamePad F710</a></li>
+ 	<li><a href="https://amzn.to/2SddDvo" rel="nofollow">ELECOM Wireress GamePad JC-U3912T</a></li>
+</ol>
+<h1>学習</h1>
 記録したデータのをPCにコピーして、グーグルの機械学習AIプラットフォームであるTensorFlowを使って学習モデルを生成します。
 
 AIプラットフォームは必要に応じて次の3種類の利用が考えられます。
