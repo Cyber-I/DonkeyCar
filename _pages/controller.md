@@ -17,8 +17,11 @@ post_date: 2019-10-12 13:37:50
 </ul>
 &nbsp;
 <h2>PS3のコントローラ</h2>
+&nbsp;
+<h2>PS4のコントローラ</h2>
+<img class="alignnone  wp-image-474" src="https://donkeycar.jp/wp-content/uploads/2019/10/controller.png" alt="" width="791" height="396" />
 <h2><a href="https://amzn.to/2R85kAK" rel="nofollow">Logicool Wireress GamePad F710</a></h2>
-<img class="alignnone  wp-image-472" src="https://donkeycar.jp/wp-content/uploads/2019/10/joystick003-2.png" alt="" width="590" height="443" />
+<img class="alignnone wp-image-472" src="https://donkeycar.jp/wp-content/uploads/2019/10/joystick003-2.png" alt="" width="590" height="443" />
 
 &nbsp;
 
