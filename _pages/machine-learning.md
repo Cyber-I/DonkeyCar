@@ -13,14 +13,8 @@ post_date: 2019-08-21 13:44:48
 この間に、ドンキーカーは1万枚程度の“画像”と人間が操作した“ステアリング”と“スロットル”の<a href="https://donkeycar.jp/training-data/">学習データ</a>を一緒に記録します。
 <h1>操作</h1>
 通常、PS3のコントローラやロジクールF710などの<a href="https://donkeycar.jp/controller/">ゲームパッド</a>で操作します。
-<ol>
- 	<li>PS3のコントローラ</li>
- 	<li><a href="https://amzn.to/2R85kAK" rel="nofollow">Logicool Wireress GamePad F710</a>
 
-<img class="alignnone size-full wp-image-467" src="https://donkeycar.jp/wp-content/uploads/2019/10/1_hiBr8asYRz0Pfu58m7xs_A.png" alt="" width="762" height="538" /></li>
- 	<li><a href="https://amzn.to/2SddDvo" rel="nofollow">ELECOM Wireress GamePad JC-U3912T</a></li>
-</ol>
-<img class="alignnone  wp-image-466" src="https://donkeycar.jp/wp-content/uploads/2019/10/JC_U3912T.png" alt="" width="599" height="370" />
+&nbsp;
 <h1>学習</h1>
 記録したデータのをPCにコピーして、グーグルの機械学習AIプラットフォームであるTensorFlowを使って学習モデルを生成します。
 
