@@ -8,21 +8,16 @@ permalink: https://donkeycar.jp/
 published: true
 post_date: 2019-08-11 08:04:01
 ---
-<h1 class="entry-title">自分のラジコンカーを自動操縦に。Donkey Carプロジェクト</h1>
-https://www.youtube.com/watch?v=Cu07nPg6R_E
-
-&nbsp;
-
+<h1>Donkey Car とは</h1>
+<p class="entry-title">自分のラジコンカーを自動操縦に。Donkey Carプロジェクト！</p>
 Googleが提供している機械学習のためのソフトウェアライブラリ「TensorFlow」（テンソルフロー）をラズベリーパイに搭載し、ラジコンカーにカメラを搭載して作る自動運転車のプラットフォームがDonkey Car（ドンキーカー）です。
 
 <img class="alignnone size-full wp-image-232" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_embz2VLlEt0Z1oe4ij9ZEA.png" alt="" width="700" height="499" />
 
 Donkey Carはスマートフォンやコンピュータなどで操作することができます。ほとんどのRCカーに組み込むことができ、人工知能による高度な自動操縦が行えるようになります。
 
-&nbsp;
-
 まずは自分の車を組み立て、サーボシールドとラズベリーパイ、カメラをセットアップし、その後ソフトウェアをインストールします。サーボでコントロールするステアリングなどを調整して、オートパイロットのための操作の練習を行い、うまく走行できたデータを記録していきます。
-
+<h1>Donkey Carコミュニティ</h1>
 <img class="alignnone size-full wp-image-223" src="https://donkeycar.jp/wp-content/uploads/2019/08/1_Sg5cuLqFufM0IX4nZd9bMA.png" alt="" width="700" height="327" />
 
 Donkey Carのソースコードは<a href="https://github.com/wroscoe/donkey" target="_blank" rel="noopener noreferrer"><strong>Github</strong></a>などに公開されており、Donkey Carコミュニティで情報交換が行われています。
@@ -33,7 +28,9 @@ Donkey Carのソースコードは<a href="https://github.com/wroscoe/donkey" ta
 
 <strong>＞＞<a href="http://docs.donkeycar.com/" target="_blank" rel="noopener noreferrer">ドキュメントサイト：http://docs.donkeycar.com/</a></strong>
 
-&nbsp;
+日本語ドキュメント
+
+<a href="https://coolerking.github.io/donkeycar_jpdocs/">https://coolerking.github.io/donkeycar_jpdocs/</a>
 <h1>関連Qiita</h1>
 <ul>
  	<li><a id="reference-2ae42533134efa722e20" href="https://qiita.com/akira-sasaki/items/c37468e88c9bbd739a65">Donkey Carの作り方(RasPi側)</a></li>
