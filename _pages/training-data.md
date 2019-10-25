@@ -56,4 +56,23 @@ LogiCoolコントローラ用に以下のファイルを差し替える
 <a href="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;s=3cef7f77550b4176e02cea378c143337" target="_blank" rel="nofollow noopener noreferrer"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;s=3cef7f77550b4176e02cea378c143337" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;w=1400&amp;fit=max&amp;s=eae285bbc8d6f8cdd59f6c4e30d48a66 1x" alt="logicool.jpg" data-canonical-src="https://qiita-image-store.s3.amazonaws.com/0/263672/981d589c-b147-4119-b588-86bcfed771b1.jpeg" /></a>
 
 コントローラにJC-U3912TまたはJC-VRP-01を使用する場合はmanage.pyファイル28行目の「controller_logicool」を「controller_elecom_usb」または「controller_elecom_bt」に変更する
+
+&nbsp;
+<h2>人間の操作でコースを何周か走行し学習データを作成</h2>
+$ python manage.py drive --js
+
+最大スロットル値を調整
+赤ボタンで走行記録をオン
+
+前進後退のレバーを上げて走行を開始
+走行中は学習データを生成する
+停止時は学習データを生成しない
+ターミナルからctrl＋Cでプログラムを終了
+
+~/mycar/data/tub_＊_y_m_d
+のフォルダが作られ中にjpgファイルとjsonファイルが出来ているか確認
+
+&nbsp;
+<h2>参考</h2>
+https://qiita.com/mituhiromatuura/items/86a4dde22f469119f9d3
 <pre><code class="hljs bash"></code></pre>
