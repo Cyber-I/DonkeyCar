@@ -40,4 +40,20 @@ python manage.py drive</code></pre>
  	<li>     j：左に曲がる</li>
  	<li>     l：右折</li>
 </ul>
+&nbsp;
+<h2>ゲーム Joystick Controllerを使用した運転</h2>
+LogiCoolゲームコントローラのUSBドングルを接続
+$ ls /dev/input
+js0 があればOK
+$ hexdump /dev/input/js0
+ボタン類を操作して16進の数値が表示されればOK
+ctrl＋cで終了
+
+LogiCoolコントローラ用に以下のファイルを差し替える
+~/donkeycar/donkeycar/parts/controller.py
+
+ゲームコントローラのボタン類の割り当ては以下の通り
+<a href="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;s=3cef7f77550b4176e02cea378c143337" target="_blank" rel="nofollow noopener noreferrer"><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;s=3cef7f77550b4176e02cea378c143337" srcset="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F263672%2F981d589c-b147-4119-b588-86bcfed771b1.jpeg?ixlib=rb-1.2.2&amp;auto=compress%2Cformat&amp;gif-q=60&amp;w=1400&amp;fit=max&amp;s=eae285bbc8d6f8cdd59f6c4e30d48a66 1x" alt="logicool.jpg" data-canonical-src="https://qiita-image-store.s3.amazonaws.com/0/263672/981d589c-b147-4119-b588-86bcfed771b1.jpeg" /></a>
+
+コントローラにJC-U3912TまたはJC-VRP-01を使用する場合はmanage.pyファイル28行目の「controller_logicool」を「controller_elecom_usb」または「controller_elecom_bt」に変更する
 <pre><code class="hljs bash"></code></pre>
