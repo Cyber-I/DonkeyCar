@@ -45,11 +45,10 @@ post_date: 2019-10-12 13:37:50
 <h2><a href="https://amzn.to/2SddDvo" rel="nofollow">ELECOM Wireress GamePad JC-U3912T</a></h2>
 参考：
 
-<a href="https://faboplatform.github.io/DonkeyDocs/6.etc/05.joystick/">https://faboplatform.github.io/DonkeyDocs/6.etc/05.joystick/</a>
+<a href="https://github.com/coolerking/donkeypart_game_controller">https://github.com/coolerking/donkeypart_game_controller</a>
 
 <img class="alignnone wp-image-466" src="https://donkeycar.jp/wp-content/uploads/2019/10/JC_U3912T.png" alt="" width="599" height="370" />
 <h1>参考</h1>
 <ul>
  	<li><a href="http://docs.donkeycar.com/parts/controllers/">http://docs.donkeycar.com/parts/controllers/</a></li>
- 	<li><a href="https://github.com/coolerking/donkeypart_game_controller">https://github.com/coolerking/donkeypart_game_controller</a></li>
 </ul>
