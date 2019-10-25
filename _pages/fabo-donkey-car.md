@@ -25,15 +25,7 @@ LinuxおよびPiの専門家によって3年間にわたって慎重に作成さ
 <ul class="md-nav__list" data-md-scrollfix="">
  	<li class="md-nav__item md-nav__item--active md-nav__item--nested"><nav class="md-nav" data-md-component="collapsible" data-md-level="1">
 <ul class="md-nav__list" data-md-scrollfix="">
- 	<li class="md-nav__item"><a class="md-nav__link" title="組み立て" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/00.build/">組み立て</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="使用ツール" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/01.Tools/">使用ツール</a></li>
- 	<li class="md-nav__item md-nav__item--active"><a class="md-nav__link md-nav__link--active" title="RaspPi3用のイメージ作成" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/02.rasppi_allsetting/">RaspPi3用のイメージ作成</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="Wifiの設定" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/03.network/">Wifiの設定</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="SSHでRaspberryPiのログイン" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/04.ssh/">SSHでRaspberryPiのログイン</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="キャリブレーション" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/05.calbration/">キャリブレーション</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="教師データの作成" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/06.parent/">教師データの作成</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="Colabでの学習(GPU)" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/07.train_colab/">Colabでの学習(GPU)</a></li>
- 	<li class="md-nav__item"><a class="md-nav__link" title="自動走行" href="https://faboplatform.github.io/DonkeyDocs/1.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/08.autopilot/">自動走行</a></li>
+ 	<li class="md-nav__item"></li>
 </ul>
 </nav></li>
 </ul>
@@ -41,8 +33,23 @@ LinuxおよびPiの専門家によって3年間にわたって慎重に作成さ
 </div>
 </div>
 <div class="md-content"><article class="md-content__inner md-typeset">
-<p id="rasppi3"></p>
-
+<ul class="md-nav__list" data-md-scrollfix="">
+ 	<li class="md-nav__item md-nav__item--nested"><label class="md-nav__link" for="nav-8">DonkeyCar2の構築 </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<ul class="md-nav__list" data-md-scrollfix="">
+ 	<li class="md-nav__item"><a class="md-nav__link" title="組み立て" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/00.build/">組み立て</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="使用ツール" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/01.Tools/">使用ツール</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="RaspPi3用のイメージ作成" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/02.rasppi_allsetting/">RaspPi3用のイメージ作成</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="Wifiの設定" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/03.network/">Wifiの設定</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="SSHでRaspberryPiのログイン" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/04.ssh/">SSHでRaspberryPiのログイン</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="キャリブレーション" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/05.calbration/">キャリブレーション</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="教師データの作成" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/06.parent/">教師データの作成</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="Colabでの学習(GPU)" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/07.train_colab/">Colabでの学習(GPU)</a></li>
+ 	<li class="md-nav__item"><a class="md-nav__link" title="自動走行" href="https://faboplatform.github.io/DonkeyDocs/7.DonkeyCar2%E3%81%AE%E6%A7%8B%E7%AF%89/08.autopilot/">自動走行</a></li>
+</ul>
+</nav></li>
+ 	<li class="md-nav__item md-nav__item--nested"><label class="md-nav__link" for="nav-9">8.DonkeyCar2個別設定 </label></li>
+</ul>
 </article></div>
 <h1>Fabo Donkey Car参考資料</h1>
 <ul>
