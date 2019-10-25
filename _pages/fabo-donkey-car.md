@@ -21,14 +21,8 @@ LinuxおよびPiの専門家によって3年間にわたって慎重に作成さ
 <h1>Fabo Donkey Car製作手順</h1>
 <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
 <div class="md-sidebar__scrollwrap">
-<div class="md-sidebar__inner"><nav class="md-nav md-nav--primary" data-md-level="0">
-<ul class="md-nav__list" data-md-scrollfix="">
- 	<li class="md-nav__item md-nav__item--active md-nav__item--nested"><nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-<ul class="md-nav__list" data-md-scrollfix="">
- 	<li class="md-nav__item"></li>
-</ul>
-</nav></li>
-</ul>
+<div class="md-sidebar__inner"><nav class="md-nav md-nav--primary" data-md-level="0">Fabo Donkey Carリンク抜粋
+
 </nav></div>
 </div>
 </div>
