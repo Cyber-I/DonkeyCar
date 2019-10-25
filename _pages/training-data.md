@@ -15,7 +15,9 @@ python manage.py drive</code></pre>
 <pre><code class="hljs bash"></code></pre>
 このスクリプトは、車を制御するためのWebサーバーである部分を含む車のドライブループを開始します。
 
-次のURLのWebブラウザーから車を制御できるようになりました：&lt;あなたの車のIPアドレス&gt;：8887
+次のURLのWebブラウザーから車を制御できるようになりました：
+
+&lt;あなたの車のIPアドレス&gt;：8887
 
 &nbsp;
 
