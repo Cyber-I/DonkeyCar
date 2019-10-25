@@ -72,7 +72,8 @@ $ python manage.py drive --js
 ~/mycar/data/tub_＊_y_m_d
 のフォルダが作られ中にjpgファイルとjsonファイルが出来ているか確認
 
-&nbsp;
+学習データの画像から動画を生成するには
+$ donkey makemovie --tub ＜tub folder names comma separated＞ --out ./movie(任意の動画ファイル名).mp4
 <h2>参考</h2>
 https://qiita.com/mituhiromatuura/items/86a4dde22f469119f9d3
 <pre><code class="hljs bash"></code></pre>
