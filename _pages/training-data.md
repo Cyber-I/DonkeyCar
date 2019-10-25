@@ -19,6 +19,6 @@ python manage.py drive</code></pre>
 
 &nbsp;
 
-<img src="http://docs.donkeycar.com/assets/drive_UI.png" alt="drive UI" />
+<img src="https://donkeycar.jp/wp-content/uploads/2019/08/drive_UI.png" alt="drive UI" />
 <h2 id="driving-with-web-controller"></h2>
 <pre><code class="hljs bash"></code></pre>
